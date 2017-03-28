@@ -3,7 +3,6 @@ Some webscraping projects
 
 
 ## Prerequisites 
------------
 
 ### Selenium
 You can install this from the terminal using:</br>
